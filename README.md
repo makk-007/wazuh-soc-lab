@@ -14,7 +14,7 @@ detection and response scenarios.
 | # | Scenario | Status |
 |---|----------|--------|
 | 1 | SSH Brute Force Detection | Complete |
-| 2 | File Integrity Monitoring | Pending |
+| 2 | File Integrity Monitoring | Complete |
 | 3 | Log Analysis with Custom Rule | Pending |
 | 4 | Malware Detection (EICAR) | Pending |
 | 5 | Active Response: IP Block | Pending |
