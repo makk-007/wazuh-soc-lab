@@ -13,7 +13,7 @@ detection and response scenarios.
 
 | # | Scenario | Status |
 |---|----------|--------|
-| 1 | SSH Brute Force Detection | Pending |
+| 1 | SSH Brute Force Detection | Complete |
 | 2 | File Integrity Monitoring | Pending |
 | 3 | Log Analysis with Custom Rule | Pending |
 | 4 | Malware Detection (EICAR) | Pending |
@@ -26,7 +26,7 @@ environment setup walkthrough.
 
 ## Screenshots
 
-Evidence screenshots for each use case are stored in the `screenshots/` folder of each use-case.
+Evidence screenshots for each use case are stored in the `screenshots/`.
 
 ---
 
